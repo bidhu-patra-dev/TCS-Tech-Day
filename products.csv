@@ -1,0 +1,13 @@
+product_id,product_name,category,supplier,unit_cost
+P001,Milk,Dairy,Fresh Farms,22.0
+P002,Bread,Bakery,Daily Bakers,18.0
+P003,Eggs,Dairy,Golden Poultry,7.0
+P004,Rice,Grains,Grain House,55.0
+P005,Sugar,Grocery,Sweet Supply,42.0
+P006,Cooking Oil,Grocery,Prime Oils,125.0
+P007,Butter,Dairy,Fresh Farms,48.0
+P008,Biscuits,Snacks,Crispy Foods,12.0
+P009,Tea,Beverages,Leaf Traders,90.0
+P010,Coffee,Beverages,Bean Co,160.0
+P011,Shampoo,Personal Care,CarePlus,85.0
+P012,Soap,Personal Care,CarePlus,32.0
